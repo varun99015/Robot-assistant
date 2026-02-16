@@ -1,0 +1,15 @@
+{
+  "name": "secure-weather-app",
+  "version": "1.0.0",
+  "description": "Secure Weather App with GitHub Actions CI/CD pipeline",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18"
+  }
+}
